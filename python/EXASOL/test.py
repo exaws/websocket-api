@@ -37,6 +37,7 @@ def run(c):
 
 class EXASOLDataTypeTests(EXASOLTest):
     def test_000_int(self):
+        pass
 
 
 class EXASOLEngineDBTest(EXASOLTest):
